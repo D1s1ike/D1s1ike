@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm D1s1ike
 
-<!--
-**D1s1ike/D1s1ike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a **Discord bot & websites API server developer** who loves building seamless integrations and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 💻 **Languages & Tech:** Python, JavaScript, Lua, Java, MySQL, HTML, CSS  
+- 🛠️ **What I Do:**  
+  - Design and code efficient Discord bots  
+  - Create robust API servers and websites  
+  - Automate workflows and solve unique challenges
+
+## 🧪 Dislike's Lab
+
+Come explore my shop for bots, scripts, and custom solutions!  
+[![Dislike's Lab Discord](https://img.shields.io/discord/1149280788138154095?label=Dislike%27s%20Lab&logo=discord&style=for-the-badge)](https://discord.gg/pMWUaxBnan)
+
+## 🌱 Fun Fact
+
+I'm always experimenting with new tech, frameworks, and automation ideas.  
+If you have a project or idea, let’s connect!
