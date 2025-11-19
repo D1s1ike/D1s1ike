@@ -16,7 +16,7 @@ I'm a **Discord bot & websites API server developer** who loves building seamles
 ## 🧪 Dislike's Lab
 
 Come explore my shop for bots, scripts, and custom solutions!  
-[![Dislike's Lab Discord](https://img.shields.io/discord/1149280788138154095?label=Dislike%27s%20Lab&logo=discord&style=for-the-badge)](https://discord.gg/pMWUaxBnan)
+[![Dislike's Lab Discord](https://img.shields.io/discord/1149280788138154095?label=Dislike%27s%20Lab&logo=discord&style=for-the-badge)](https://discord.gg/ey8bMnBcZA)
 
 ## 🌱 Fun Fact
 
